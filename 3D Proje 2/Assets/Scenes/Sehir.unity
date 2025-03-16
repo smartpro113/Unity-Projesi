@@ -875,6 +875,7 @@ MonoBehaviour:
   - {fileID: 1194866234}
   - {fileID: 702124791}
   - {fileID: 1223971967}
+  waitTimeAtLastSeen: 0
 --- !u!195 &1546766643
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -1252,6 +1253,10 @@ PrefabInstance:
     - target: {fileID: 5934992142694844783, guid: 7ee1527568b1d3e45ac4e49d6c9b4a3e, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7977769151954853038, guid: 7ee1527568b1d3e45ac4e49d6c9b4a3e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.82
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
